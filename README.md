@@ -1,2 +1,4 @@
 # Student-poly
-THIS MY FIRST REPO
+THIS MY FIRST Repository 
+<br>
+Creator- Prateek Singh
